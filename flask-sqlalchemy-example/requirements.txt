@@ -1,0 +1,6 @@
+Flask-SQLAlchemy==2.4.4            # Adds SQLAlchemy support to your Flask application.
+Flask-Marshmallow==0.14.0          # Flask + marshmallow for beautiful APIs
+Marshmallow-Sqlalchemy==0.24.0     # SQLAlchemy integration with the marshmallow (de)serialization library
+Flask-Restful==0.3.8               # Simple framework for creating REST APIs
+Flask==1.1.2
+Werkzeug==0.16                     # Forces specific version of Werkzeug to prevent breaking Flask #3488
